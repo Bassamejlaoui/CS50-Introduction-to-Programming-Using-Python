@@ -85,6 +85,6 @@ This repository contains my solutions for CS50's Introduction to Programming wit
    - [CS50 Shirtificate](/Week8/CS50_Shirtificate)
 
   10. **Week 9 - Final Project**
-   - [Seasons of Love](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/blob/main/Week%208/project.py)
+   - [Moroccan Currency converter](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/blob/main/Week%208/project.py)
 
 Feel free to explore the solutions for each week's problem sets. Each directory contains the respective problem set solutions along with README files providing details and instructions. Remember, these are learning exercises, and it's crucial to understand and solve the problems on your own to gain the maximum benefit from the course. Happy coding!
