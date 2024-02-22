@@ -28,6 +28,7 @@ This repository contains my solutions for CS50's Introduction to Programming wit
 [![GitHub forks](https://img.shields.io/github/forks/mejbass/CS50-Introduction-to-Programming-Using-Python.svg?style=social&label=Fork)](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/network/)
 [![GitHub stars](https://img.shields.io/github/stars/mejbass/CS50-Introduction-to-Programming-Using-Python.svg?style=social&label=Star)](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/stargazers/)
 
+## My Harvard CS50 Intro to Python Certificate:
 ![CS50P (1)](https://github.com/code50/130122304/assets/130122304/65072aa9-2e8f-496b-a016-ae189c4e8539)
 
 ## Final Project: Instagram Scraper
