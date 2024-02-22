@@ -31,7 +31,7 @@ This repository contains my solutions for CS50's Introduction to Programming wit
 ## My Harvard CS50 Intro to Python Certificate:
 ![Bassam Mejlaoui CS50P Certificate](https://certificates.cs50.io/8a31fd02-727a-496f-88e2-92b04ecb04c9.png)
 
-## Final Project: Instagram Scraper
+## Final Project: Moroccan Currency Converter
 
 ⚠️ Disclaimer:
 
