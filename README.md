@@ -29,7 +29,7 @@ This repository contains my solutions for CS50's Introduction to Programming wit
 [![GitHub stars](https://img.shields.io/github/stars/mejbass/CS50-Introduction-to-Programming-Using-Python.svg?style=social&label=Star)](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/stargazers/)
 
 ## My Harvard CS50 Intro to Python Certificate:
-![CS50P (1)](https://github.com/code50/130122304/assets/130122304/65072aa9-2e8f-496b-a016-ae189c4e8539)
+![Bassam Mejlaoui CS50P Certificate](https://certificates.cs50.io/8a31fd02-727a-496f-88e2-92b04ecb04c9.png)
 
 ## Final Project: Instagram Scraper
 
