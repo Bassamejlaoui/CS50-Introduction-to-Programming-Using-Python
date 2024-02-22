@@ -23,51 +23,51 @@ This repository contains my solutions for CS50's Introduction to Programming wit
    - [Tip Calculator](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%200/tip)
 
 2. **Week 1 - Conditionals**
-   - [Deep Thought](/Week1/Deep_Thought)
-   - [Home Federal Savings Bank](/Week1/Home_Federal_Savings_Bank)
-   - [File Extensions](/Week1/File_Extensions)
-   - [Math Interpreter](/Week1/Math_Interpreter)
-   - [Meal Time](/Week1/Meal_Time)
+   - [Deep Thought](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%201/deep)
+   - [Home Federal Savings Bank](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%201/bank)
+   - [File Extensions](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%201/extension)
+   - [Math Interpreter](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%201/interpreter)
+   - [Meal Time](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%201/meal)
 
 3. **Week 2 - Loops**
-   - [camelCase](/Week2/camelCase)
-   - [Coke Machine](/Week2/Coke_Machine)
-   - [Just setting up my twttr](/Week2/Just_setting_up_my_twttr)
-   - [Vanity Plates](/Week2/Vanity_Plates)
-   - [Nutrition Facts](/Week2/Nutrition_Facts)
+   - [camelCase](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%202/camel)
+   - [Coke Machine](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%202/coke)
+   - [Just setting up my twttr](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%202/twttr)
+   - [Vanity Plates](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%202/plates)
+   - [Nutrition Facts](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%202/nutrition)
 
 4. **Week 3 - Exceptions**
-   - [Fuel Gauge](/Week3/Fuel_Gauge)
-   - [Felipe's Taqueria](/Week3/Felipes_Taqueria)
-   - [Grocery List](/Week3/Grocery_List)
-   - [Outdated](/Week3/Outdated)
+   - [Fuel Gauge](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%203/fuel)
+   - [Felipe's Taqueria](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%203/taqueria)
+   - [Grocery List](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%203/grocery)
+   - [Outdated](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%203/outdated)
 
 5. **Week 4 - Libraries**
-   - [Emojize](/Week4/Emojize)
-   - [Frank, Ian and Glen's Letters](/Week4/Frank_Ian_and_Glens_Letters)
-   - [Adieu, Adieu](/Week4/Adieu_Adieu)
-   - [Guessing Game](/Week4/Guessing_Game)
-   - [Little Professor](/Week4/Little_Professor)
-   - [Bitcoin Price Index](/Week4/Bitcoin_Price_Index)
+   - [Emojize](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%204/emojize)
+   - [Frank, Ian and Glen's Letters](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%204/figlet)
+   - [Adieu, Adieu](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%204/adieu)
+   - [Guessing Game](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%204/game)
+   - [Little Professor](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%204/professor)
+   - [Bitcoin Price Index](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%204/bitcoin)
 
 6. **Week 5 - Unit Tests**
-   - [Testing my twttr](/Week5/Testing_my_twttr)
-   - [Back to the Bank](/Week5/Back_to_the_Bank)
-   - [Re-requesting a Vanity Plate](/Week5/Re-requesting_a_Vanity_Plate)
-   - [Refueling](/Week5/Refueling)
+   - [Testing my twttr](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%205/test_twttr)
+   - [Back to the Bank](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%205/test_bank)
+   - [Re-requesting a Vanity Plate](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%205/test_plates)
+   - [Refueling](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%205/test_fuel)
 
 7. **Week 6 - File I/O**
-   - [Lines of Code](/Week6/Lines_of_Code)
-   - [Pizza Py](/Week6/Pizza_Py)
-   - [Scourgify](/Week6/Scourgify)
-   - [CS50 P-Shirt](/Week6/CS50_P-Shirt)
+   - [Lines of Code](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%206/lines)
+   - [Pizza Py](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%206/pizza)
+   - [Scourgify](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%206/scourgify)
+   - [CS50 P-Shirt](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%206/shirt)
 
 8. **Week 7 - Regular Expressions**
-   - [NUMB3RS](/Week7/NUMB3RS)
-   - [Watch on YouTube](/Week7/Watch_on_YouTube)
-   - [Working 9 to 5](/Week7/Working_9_to_5)
-   - [Regular, um, Expressions](/Week7/Regular_um_Expressions)
-   - [Response Validation](/Week7/Response_Validation)
+   - [NUMB3RS](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%207/numb3rs)
+   - [Watch on YouTube](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%207/watch)
+   - [Working 9 to 5](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%207/working)
+   - [Regular, um, Expressions](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%207/um)
+   - [Response Validation](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%207/response)
 
 9. **Week 8 - Object-Oriented Programming**
    - [Seasons of Love](/Week8/Seasons_of_Love)
