@@ -8,7 +8,7 @@ This repository contains my solutions for CS50's Introduction to Programming wit
 </p>
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/My awesome CS50P/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
   </a>
     <a href="https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python">
 	<img alt=" - Mejbass" src="https://img.shields.io/badge/Mejbass-CS50--Introduction to Programming with Python 2024-red.svg">
