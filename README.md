@@ -1,4 +1,4 @@
-# CS50 Introduction to Programming with Python 2022 Solutions
+# CS50 Introduction to Programming with Python 2024 Solutions
 <p align="center">
 <img src="https://i.imgur.com/Jj740Yd.png" alt="logo" height="150"/>
 </p>
