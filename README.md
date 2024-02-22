@@ -5,6 +5,12 @@
 
 This repository contains my solutions for CS50's Introduction to Programming with Python 2022. Please note that these codes are intended for educational purposes only and should not be used or submitted as your own solutions. Cheating violates the Academic Honesty of the course and undermines the learning process.
 
+</p>
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome">
+    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+  </a>
+
 ![CS50P (1)](https://github.com/code50/130122304/assets/130122304/65072aa9-2e8f-496b-a016-ae189c4e8539)
 
 ## Final Project: Instagram Scraper
