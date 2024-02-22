@@ -14,6 +14,7 @@ This repository contains my solutions for CS50's Introduction to Programming wit
 	<img alt=" - Mejbass" src="https://img.shields.io/badge/Mejbass-CS50--Introduction to Programming with Python 2024-red.svg">
   </a>
 </p> 
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198)
 
 [![GitHub license](https://img.shields.io/github/license/microsoft/Data-Science-For-Beginners.svg)](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE)
