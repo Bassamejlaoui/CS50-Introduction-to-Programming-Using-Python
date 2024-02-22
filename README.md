@@ -16,11 +16,13 @@ This repository contains my solutions for CS50's Introduction to Programming wit
 </p>
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198)
+
 [![GitHub license](https://img.shields.io/github/license/microsoft/Data-Science-For-Beginners.svg)](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/mejbass/CS50-Introduction-to-Programming-Using-Python.svg)](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python//graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/mejbass/CS50-Introduction-to-Programming-Using-Python.svg)](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/mejbass/CS50-Introduction-to-Programming-Using-Python.svg)](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 
 [![GitHub watchers](https://img.shields.io/github/watchers/mejbass/CS50-Introduction-to-Programming-Using-Python.svg?style=social&label=Watch)]([https://GitHub.com/microsoft/Data-Science-For-Beginners/](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/)watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/mejbass/CS50-Introduction-to-Programming-Using-Python.svg?style=social&label=Fork)](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/network/)
