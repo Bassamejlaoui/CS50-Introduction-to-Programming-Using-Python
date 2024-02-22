@@ -16,11 +16,11 @@ This repository contains my solutions for CS50's Introduction to Programming wit
 ## Table of Contents
 
 1. **Week 0 - Functions, Variables**
-   - [Indoor Voice](/Week0/Indoor_Voice)
-   - [Playback Speed](/Week0/Playback_Speed)
-   - [Making Faces](/Week0/Making_Faces)
-   - [Einstein](/Week0/Einstein)
-   - [Tip Calculator](/Week0/Tip_Calculator)
+   - [Indoor Voice](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%200/indoor)
+   - [Playback Speed](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%200/playback)
+   - [Making Faces](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%200/faces)
+   - [Einstein](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%200/einstein)
+   - [Tip Calculator](https://github.com/mejbass/CS50-Introduction-to-Programming-Using-Python/tree/main/Week%200/tip)
 
 2. **Week 1 - Conditionals**
    - [Deep Thought](/Week1/Deep_Thought)
